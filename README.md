@@ -29,7 +29,7 @@ This project is built using Spring-boot and maven.
 
 URI for gateway : *http://localhost:8081*
 
-##signup input format##
+## signup input format ##
 {
 	"username":"k",
 	"email":"k@mail.com",
