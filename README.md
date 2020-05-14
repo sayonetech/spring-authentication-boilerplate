@@ -1,6 +1,7 @@
 
 
-# beco-api
+# spring-authentication-boilerplate
+
 
 gernralized spring project with preauth role token based auth basic login signup signin apis ,password hasher bcrypt
 
